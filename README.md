@@ -147,6 +147,10 @@ Glucose was the most influential feature in the trained Random Forest model, fol
 
 ## 🌐 Flask Web Application
 
+Flask Web Application – Home Page
+<img width="635" height="413" alt="Screenshot 2026-11-25 154714" src="https://github.com/user-attachments/assets/84aef1ff-5d8e-411c-bf30-e6fbf469c2d6" />
+
+
 The trained machine learning pipeline is integrated into a Flask-based web application.
 
 **Application Features:**
