@@ -291,10 +291,10 @@ http://127.0.0.1:5000/
 
 ## 👨‍💻 Author
 
-**Dhruv Panchal**
+**Dhruv Panchal** | AI/ML Engineer
 
-- GitHub: [@dhruv4AlgoForge](https://github.com/dhruv4AlgoForge)
-- Project Repository: [Diabetes-Prediction-ML](https://github.com/dhruv4AlgoForge/Diabetes-Prediction-ML)
+- **GitHub:** [@dhruv4AlgoForge](https://github.com/dhruv4AlgoForge)
+- **LinkedIn:** [Dhruv Panchal](https://www.linkedin.com/in/dhruv-panchal-a14865258/)
 
 ---
 
